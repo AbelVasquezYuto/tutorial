@@ -1,2 +1,2 @@
-# Tutorial de git i github
+# Tutorial de git y github
 tutoriales devcode
